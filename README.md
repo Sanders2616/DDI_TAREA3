@@ -6,7 +6,7 @@
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo de Dispositivos Inteligentes <br>
 200668_Sandra Aguilar Santos<br>
-Tarea 03: Creación de la primera aplicación para Wearables "Hola Mundo".<br>
+Tarea 03: Estilizacion de una interfaz para werables.<br>
 Descripción: Estilizacion de una interfaz para werables que incluya 
 Tipografia,Imagenes y implementacion de efectos o animaciones.<br>
 Fecha entrega: 24  de Mayo del 2023
